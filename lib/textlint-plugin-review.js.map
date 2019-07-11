@@ -1,0 +1,1 @@
+{"version":3,"sources":["../src/textlint-plugin-review.js"],"names":["Processor","ReVIEWProcessor"],"mappings":"AAAA;AACA;;;;;;AACA;;;;;;kBACe;AACbA,aAAWC;AADE,C","file":"textlint-plugin-review.js","sourcesContent":["// LICENSE : MIT\n'use strict';\nimport ReVIEWProcessor from './ReVIEWProcessor';\nexport default {\n  Processor: ReVIEWProcessor,\n};\n"]}

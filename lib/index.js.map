@@ -1,0 +1,1 @@
+{"version":3,"sources":["../src/index.js"],"names":["Processor","ReVIEWProcessor"],"mappings":"AAAA;AACA;;;;;;AACA;;;;;;kBACe;AACbA,aAAWC;AADE,C","file":"index.js","sourcesContent":["// LICENSE : MIT\n'use strict';\nimport ReVIEWProcessor from './ReVIEWProcessor';\nexport default {\n  Processor: ReVIEWProcessor,\n};\n"]}
